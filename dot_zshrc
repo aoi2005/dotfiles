@@ -1,0 +1,4 @@
+eval "$(starship init zsh)"
+eval "$(anyenv init -)"
+autoload -Uz compinit
+compinit
