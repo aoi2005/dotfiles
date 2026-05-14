@@ -7,6 +7,7 @@
   "devDependencies": {
     "@commitlint/cli": "~20.5",
     "@commitlint/config-conventional": "~20.5",
+    "git-cz": "~4.9",
     "husky": "~9.1",
     "lint-staged": "~16.4",
     "prettier": "~3.8"
