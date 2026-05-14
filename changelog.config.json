@@ -1,0 +1,84 @@
+{
+  "disableEmoji": false,
+  "format": "{type}: {subject}",
+  "list": [
+    "feat",
+    "fix",
+    "test",
+    "refactor",
+    "style",
+    "perf",
+    "docs",
+    "revert",
+    "release",
+    "ci",
+    "build",
+    "chore"
+  ],
+  "maxMessageLength": 64,
+  "minMessageLength": 3,
+  "questions": ["type", "subject", "body", "breaking"],
+  "scopes": [],
+  "types": {
+    "build": {
+      "description": "ビルド設定の変更、依存関係の更新",
+      "emoji": "📦️",
+      "value": "build"
+    },
+    "chore": {
+      "description": "その他の変更（開発補助ツールの設定、パッケージのアップデートなど）",
+      "emoji": "🔧",
+      "value": "chore"
+    },
+    "ci": {
+      "description": "CI/CD の設定",
+      "emoji": "👷",
+      "value": "ci"
+    },
+    "docs": {
+      "description": "ドキュメントの更新",
+      "emoji": "📝",
+      "value": "docs"
+    },
+    "feat": {
+      "description": "機能の追加・修正・削除（セマンティックバージョニングのマイナー以上）",
+      "emoji": "✨",
+      "value": "feat"
+    },
+    "fix": {
+      "description": "バグ修正（セマンティックバージョニングのパッチ相当）",
+      "emoji": "🐛",
+      "value": "fix"
+    },
+    "perf": {
+      "description": "パフォーマンス改善",
+      "emoji": "⚡️",
+      "value": "perf"
+    },
+    "refactor": {
+      "description": "リファクタリング（バグ修正や機能変更は含まない）",
+      "emoji": "♻️",
+      "value": "refactor"
+    },
+    "revert": {
+      "description": "コミットの取り消し",
+      "emoji": "⏪️",
+      "value": "revert"
+    },
+    "release": {
+      "description": "リリースコミット",
+      "emoji": "🔖",
+      "value": "release"
+    },
+    "style": {
+      "description": "コードスタイルの修正（セミコロンの追加や改行の修正など）",
+      "emoji": "🎨",
+      "value": "style"
+    },
+    "test": {
+      "description": "テストの追加・修正・削除",
+      "emoji": "✅",
+      "value": "test"
+    }
+  }
+}

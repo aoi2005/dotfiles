@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "commit": "git-cz",
     "format": "prettier --check .",
     "format:fix": "prettier --write .",
     "prepare": "[ \"$CI\" = 1 ] || [ \"$CI\" = true ] || husky"
