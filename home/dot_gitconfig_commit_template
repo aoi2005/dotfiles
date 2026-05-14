@@ -1,0 +1,25 @@
+# 
+
+# ==== Emojis ====
+# 🐛 :bug: バグ修正
+# ✨ :sparkles: 機能追加・修正
+# 🗑 :wastebasket: 不要な機能の削除
+# 🎨 :art: スタイリングの追加・修正
+# ♻️ :recycle: リファクタリング
+# 🐎 :racehorse: パフォーマンス改善
+# 👮 :cop: セキュリティ関連の修正
+# 👕 :shirt: Lintエラーの対応
+# ✅ :white_check_mark: テストの追加・修正
+# 💚 :green_heart: CIで発生した問題の修正
+# ➕ :heavy_plus_sign: ライブラリ・パッケージの追加
+# ➖ :heavy_minus_sign: ライブラリ・ライブラリの削除
+# 🆙 :up: ライブラリのアップデート
+# 🔧 :wrench: 設定ファイルの修正
+# 🍱 :bento: ファイルや画像などのアセットの追加・修正
+# 🎉 :tada: リリース・大きな機能追加
+# 📝 :memo: ドキュメント追加・修正
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Task URL
